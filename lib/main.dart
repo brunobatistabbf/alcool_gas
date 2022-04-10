@@ -15,8 +15,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.green,
       ),
-      debugShowCheckedModeBanner: false,
       home: MyHomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

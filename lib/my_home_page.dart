@@ -39,8 +39,8 @@ class _MyHomePageState extends State<MyHomePage> {
             children: [
               Container(
                 child: Container(
-                  width: 300,
-                  height: 300,
+                  width: 200,
+                  height: 200,
                   child: const Image(
                     image: AssetImage("images/defaul_image.png"),
                   ),
